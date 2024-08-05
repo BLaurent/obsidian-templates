@@ -5,6 +5,8 @@
 A couple of simple markdown templates to be use with
 [obsidian.nvim](https://github.com/epwalsh/obsidian.nvim)
 
+It can be setup using this in the neovim configuration.
+
 ```lua
 daily_notes = {
   folder = "dailies",
