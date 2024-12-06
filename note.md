@@ -5,6 +5,7 @@ aliases:
 created: {{fulldate}}
 tags:
   - when/{{week}}
+  - when/{{date}}
   - when/{{month}}
   - when/{{year}}
   - type/note
